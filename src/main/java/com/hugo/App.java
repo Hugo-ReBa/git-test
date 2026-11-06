@@ -18,7 +18,7 @@ public class App
             default -> "周末";
         };
 
-        System.out.println("今天是："+dayName);
+        System.out.println("这是我在feature1分支写的新功能！");
 
     }
 }
